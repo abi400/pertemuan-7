@@ -1,0 +1,11 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    int a;
+    for(int a=0;a<21;a++){
+        cout<<a;
+    }
+}
